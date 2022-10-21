@@ -5,5 +5,5 @@
 - 💞️ I’m looking to collaborate on game development projects, as I want experience in this field. I would love to learn
       any tips you'd have or how to get started and keep a steady progress on that type of thing.
 - 📫 How to reach me: 
-          https://www.linkedin.com/in/jared-de-los-santos-43aaa71a4/
+          https://www.linkedin.com/in/jared-de-los-santos
 
