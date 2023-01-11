@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jareddls
-- 👀 I’m interested in game development, and also a little in app development.
-- 🌱 I’m currently learning at CSUF for a Bachelor's Degree in Computer Science. I've recently started my upper-division classes,
-      so I'm getting into the bulk of the classes that I do have heavy interest in.
-- 💞️ I’m looking to collaborate on game development projects, as I want experience in this field. I would love to learn
+- 👀 I’m interested in game and app development, as well as a huge interest in machine learning.
+- 🌱 I’m currently learning at CSUF for a Bachelor's Degree in Computer Science.
+- 💞️ I’m looking to collaborate on game development projects, as I want experience in this field. I am also interested in any opportunities related to working on machine learning in the gaming industry. I would love to learn
       any tips you'd have or how to get started and keep a steady progress on that type of thing.
 - 📫 How to reach me:
  LinkedIn: https://www.linkedin.com/in/jared-de-los-santos \
