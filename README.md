@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
-<h3 align="center">An aspiring fullstack web developer!</h3>
+<h3 align="center">A working man trying to make Rust my main language!</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jareddls&" alt="jareddls" />
 </p>
@@ -7,13 +7,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jareddls&label=Profile%20views&color=0e75b6&style=flat" alt="jareddls" /> </p>
 
-- 🌱 I’m currently learning **fullstack development under TypeScript.**
+- 🌱 I’m currently learning **Rust.**
 
-- 👨‍💻 All of my projects are available at [https://jareddls.github.io](https://jareddls.github.io) **[_CURRENTLY REBUILDING: WIP_]**
-
-- 📄 If you are a recruiter and are interested, reach out to me on LinkedIn for my resume! [https://linkedin.com/in/jared-de-los-santos](https://linkedin.com/in/jared-de-los-santos)
-
-- ⚡ Fun fact **I used to hate coding, but only because things wouldn't click for me back then!**
+- 👨‍💻 All of my projects are available at [https://jareddls.github.io](https://jareddls.github.io) **[_CURRENTLY REBUILDING: WIP_(will try to rebuild to include Rust!)]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
